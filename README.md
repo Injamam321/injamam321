@@ -6,10 +6,8 @@ I'm a passionate full-stack developer with a keen interest in creating dynamic a
 When I'm not coding, I love to contribute to open-source projects, learn new skills, and share knowledge with the developer community.
 
 ### 🌐 Connect with me:
-
-[![Website](https://img.shields.io/badge/Website-tizdev-blue?style=flat&logo=google-chrome)](https://tizdev.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/md-injamam-hossain-8766a9219/)
-[![Twitter](https://img.shields.io/badge/X-@tamjid_zihan-1DA1F2?style=flat&logo=x)](https://x.com/tamjid_zihan)
+
 
 ### 💻 Languages & Tools:
 
