@@ -1,6 +1,6 @@
 # Hi there👋
 
-![Header Image](https://github.com/tamjidzihan/tamjidzihan/blob/main/github-header-image.png)
+![Header Image]()
 
 ## 🧑‍💻 About Me
 I'm a passionate full-stack developer with a keen interest in creating dynamic and user-friendly web applications. I enjoy exploring new technologies, solving complex problems, and building solutions that have a meaningful impact. My expertise spans a variety of modern frameworks and libraries, enabling me to create seamless, responsive, and scalable applications.
