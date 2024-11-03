@@ -46,7 +46,7 @@ When I'm not coding, I love to contribute to open-source projects, learn new ski
 
 ### 📊 GitHub Stats:
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=tamjidzihan&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Tamjid's GitHub stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamjidzihan&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Injamam321&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Injamam's GitHub stats" /></a>	<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Injamam321&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 ---
