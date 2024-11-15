@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Md Injamam Hossain</h1>
 <h3 align="center">Software Engineer</h3>
 
+## 🧑‍💻 About Me
+I'm a passionate full-stack developer with a keen interest in creating dynamic and user-friendly web applications. I enjoy exploring new technologies, solving complex problems, and building solutions that have a meaningful impact. My expertise spans a variety of modern frameworks and libraries, enabling me to create seamless, responsive, and scalable applications.
+
+When I'm not coding, I love to contribute to open-source projects, learn new skills, and share knowledge with the developer community.
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=injamam321&label=Profile%20views&color=0e75b6&style=flat" alt="injamam321" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=injamam321" alt="injamam321" /></a> </p>
