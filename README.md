@@ -10,7 +10,7 @@ When I'm not coding, I love to contribute to open-source projects, learn new ski
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=injamam321" alt="injamam321" /></a> </p>
 
-- 🔭 I’m currently working on **Few project**
+- 🔭 I’m currently working on **Few projects**
 
 - 🌱 I’m currently learning **Golang**
 
